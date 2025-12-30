@@ -61,7 +61,7 @@ Probability-based output (not just win/lose)
 
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/IPL-Win-Probability-Predictor.git
+git clone https://github.com/saurabh99902/IPL-Win-Probability-Predictor.git
 cd IPL-Win-Probability-Predictor
 
 2️⃣ Install Dependencies
